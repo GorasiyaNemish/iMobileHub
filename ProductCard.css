@@ -1,0 +1,20 @@
+.card{
+    overflow: hidden;
+}
+.card img{
+    transition: scale 0.4s;
+}
+.card:hover img{
+    scale: 1.05;
+}
+.description {
+    max-height: 0;
+    transition: max-height 0.5s;
+    visibility: hidden;
+  }
+
+  .card:hover .description {
+    visibility: visible;
+    max-height: 100px; 
+    transition: max-height 0.5s;
+  }
