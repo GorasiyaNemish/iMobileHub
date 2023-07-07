@@ -1,2 +1,2 @@
 # iMobileHub
-This is my project , in which i have used ReactJS framework , BackEnd Service Firebase and BootStrap.
+This is my project , in which i have used ReactJS framework , BackEnd Service Firebase and BootStrap for styling and responsiveness.
